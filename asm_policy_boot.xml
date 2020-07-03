@@ -22433,7 +22433,6 @@ Connection: close</response_header>
       <in_staging>false</in_staging>
     </signature>
     <signature signature_id="300000000">
-     <rev num="1">
     <sig_name>"% bootcamp_demo"</sig_name>
     <rule>content:"bootcamp"; nocase;</rule>
     <apply_to>Request</apply_to>
@@ -22441,7 +22440,6 @@ Connection: close</response_header>
     <accuracy>1</accuracy>
     <doc>demobootcamp</doc>
     <attack_type>Other Application Attacks</attack_type>
-    </rev>
       <enabled>true</enabled>
       <in_staging>false</in_staging>
     </signature>
