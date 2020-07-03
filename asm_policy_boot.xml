@@ -22442,7 +22442,6 @@ Connection: close</response_header>
     <doc>demobootcamp</doc>
     <attack_type>Other Application Attacks</attack_type>
     </rev>
-    </sig>
       <enabled>true</enabled>
       <in_staging>false</in_staging>
     </signature>
