@@ -1951,7 +1951,6 @@ Connection: close</response_header>
       <metachar character="0x3c">allow</metachar>
       <metachar character="0x3d">allow</metachar>
       <metachar character="0x3e">allow</metachar>
-      <flow>false</flow>
       <content_profile>
         <header_name>*</header_name>
         <header_value>*</header_value>
