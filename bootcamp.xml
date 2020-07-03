@@ -1928,7 +1928,6 @@ Connection: close</response_header>
       <check_metachars>true</check_metachars>
       <check_methods>false</check_methods>
       <in_staging>true</in_staging>
-      <last_updated>2020-07-03T05:36:24Z</last_updated>
       <clickjacking_protection>
         <enabled>false</enabled>
         <allow_rendering_in_frames>Never</allow_rendering_in_frames>
