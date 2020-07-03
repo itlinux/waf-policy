@@ -5848,10 +5848,6 @@ Connection: close</response_header>
       <enabled>true</enabled>
       <in_staging>true</in_staging>
     </signature>
-    <signature signature_id="200001599">
-      <enabled>true</enabled>
-      <in_staging>true</in_staging>
-    </signature>
     <signature signature_id="200001600">
       <enabled>true</enabled>
       <in_staging>true</in_staging>
@@ -22430,16 +22426,6 @@ Connection: close</response_header>
     </signature>
     <signature signature_id="299999999">
       <enabled>false</enabled>
-      <in_staging>false</in_staging>
-    </signature>
-    <signature signature_id="300000000">
-    <rule>content:"bootcamp"; nocase;</rule>
-    <apply_to>Request</apply_to>
-    <risk>1</risk>
-    <accuracy>1</accuracy>
-    <doc>demobootcamp</doc>
-    <attack_type>Other Application Attacks</attack_type>
-      <enabled>true</enabled>
       <in_staging>false</in_staging>
     </signature>
   </attack_signatures>
